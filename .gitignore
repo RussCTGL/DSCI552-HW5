@@ -1,0 +1,25 @@
+.venv/
+.python/
+.cache/
+.jupyter/
+.ipython/
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Personal study aids, AI-generated examples and redistributed course files
+# must never go into a (possibly public) submission repo.
+examples/
+HW5_Guide.pdf
+Homework5.pdf
+export/
+export_template/
+
+# Local-only helpers and notes (not needed by graders)
+NOTES_local.md
+*.cmd
+
+# Redistributed article from the HW footnote (copyrighted, not needed to run the notebook)
+data/Simplifying Decision Tree Interpretability with Python & Scikit-learn - KDnuggets.pdf

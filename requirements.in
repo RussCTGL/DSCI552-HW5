@@ -1,0 +1,13 @@
+# Direct dependencies for the local HW5 notebook environment.
+# requirements.txt records the resolved versions and platform markers.
+pip
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+notebook
+ipykernel
+nbconvert
+xgboost
